@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
-  "author": "Bogdanblare",
+  "author": "bogdanblare",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.48.0",

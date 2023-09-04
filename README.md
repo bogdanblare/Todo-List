@@ -1,7 +1,8 @@
 # 🚀 Todo List
 The project  [Todo-List](https://bogdanblare.github.io/Todo-List/) is a web application designed to help users organize and manage their tasks effectively. This application serves as a digital to-do list, allowing individuals to create, track, and prioritize their daily tasks and responsibilities.
 
-The main features of the Todo-List project include:
+# ✨ Features
+
 
 - Task Creation: Users can easily create new tasks by inputting the task name and any additional details or notes associated with it. This feature allows users to capture all the necessary information related to their tasks in a centralized location.
 - Task Organization: The application provides various options for organizing tasks. Users can categorize tasks into different lists or create custom tags to group related tasks together. This functionality enables users to maintain a structured approach to task management.
