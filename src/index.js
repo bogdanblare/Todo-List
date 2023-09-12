@@ -1,3 +1,10 @@
-import UI from './modules/UI'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-document.addEventListener('DOMContentLoaded', UI.loadHomepage)
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
