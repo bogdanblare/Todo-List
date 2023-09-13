@@ -13,4 +13,5 @@ The project  [Todo-List](https://bogdanblare.github.io/Todo-List/) is a web appl
 
   ## 📸 Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Todo-List/main/Screenshot.png)
+![App Screenshot](https://github.com/bogdanblare/Todo-List/assets/127102636/efb25736-4f84-4b6c-8cf5-7e539c783e0a)
+
